@@ -1,0 +1,21 @@
+{
+  "config": {
+    "activation_function": "tanh",
+    "bias": true,
+    "head_type": "classification",
+    "label2id": {
+      " World ": 0,
+      "Business": 2,
+      "Sci/Tec": 3,
+      "Sports": 1
+    },
+    "layers": 2,
+    "num_labels": 4,
+    "use_pooler": false
+  },
+  "hidden_size": 768,
+  "model_class": "RobertaModelWithHeads",
+  "model_name": "roberta-base",
+  "model_type": "roberta",
+  "name": "ag_news"
+}
