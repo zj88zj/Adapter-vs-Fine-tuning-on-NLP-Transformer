@@ -5,7 +5,7 @@
 <p>Structure:</p>
 <p>This repo contains separated training/prediction codes and traning results for each target tasks. There are also subfolders with tuning codes and outputs under each results forlder for CHEMPROT and SCIERC. Visual is an additional part for visualizations. </p>
 
-<p>Reference:</p>
+<p>Partial Reference:</p>
 <ol>Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks. Suchin Gururangan</ol>
 <ol>AdapterHub: A Framework for Adapting Transformers. Jonas Pfeiffer</ol>
 <ol>Parameter-Efficient Transfer Learning for NLP. Neil Houlsby</ol>
